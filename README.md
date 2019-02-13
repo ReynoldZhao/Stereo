@@ -73,17 +73,12 @@ or
 
 ## Examples
 
-### A series of images
+### Albedo and normals of the object surface, depth map and 3D mesh
 
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite1.jpg)
+![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/Flowers_projected.gif)
 
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite2.jpg)
+![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/Flowers_ncc.gif)
 
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite3.jpg)
+![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/tentacle_ncc.gif)
 
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite4.jpg)
-### Panorama
-
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/Project3_Results/yosemite_pano_homography_blendwidth50.png)
-
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/Project3_Results/yosemite_pano_translation_blendwidth50.png)
+![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/tentacle_projected.gif)
