@@ -75,10 +75,6 @@ or
 
 ### Albedo and normals of the object surface, depth map and 3D mesh
 
-![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/Flowers_projected.gif)
-
-![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/Flowers_ncc.gif)
-
-![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/tentacle_ncc.gif)
-
-![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/tentacle_projected.gif)
+| ![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/Flowers_projected.gif) | ![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/Flowers_ncc.gif) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/tentacle_ncc.gif) | ![](https://github.com/ReynoldZhao/Project4_Stereo/raw/master/Project_4Results/tentacle_projected.gif) |
